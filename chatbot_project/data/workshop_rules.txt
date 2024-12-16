@@ -1,0 +1,1677 @@
+ 
+ 
+ 
+College of Architecture Engineering and Design   
+2021 
+Engineering Workshop Health 
+& Safety Guidelines Catalog       
+      
+ 
+1 | P a g e  
+ Table of Contents  
+Introduction  ................................ ................................ ................................ ................................ ................................ ................................ ...................  3 
+Dressing in the workshop  ................................ ................................ ................................ ................................ ................................ ..........................  3 
+Environment of the workshop  ................................ ................................ ................................ ................................ ................................ ...................  3 
+Ventilation  ................................ ................................ ................................ ................................ ................................ ................................ ..............  3 
+Fire fighting  ................................ ................................ ................................ ................................ ................................ ................................ ............  3 
+Emergency escaping ................................ ................................ ................................ ................................ ................................ ...............................  4 
+Terminology  ................................ ................................ ................................ ................................ ................................ ................................ ...................  5 
+Safety Signs  ................................ ................................ ................................ ................................ ................................ ................................ ....................  6 
+Risk Assessment  ................................ ................................ ................................ ................................ ................................ ................................ .............  9 
+Band saw  ................................ ................................ ................................ ................................ ................................ ................................ ....................  9 
+Wood lathe machine  ................................ ................................ ................................ ................................ ................................ ................................  11 
+Press Drill  ................................ ................................ ................................ ................................ ................................ ................................ .................  14 
+Scroll Saw  ................................ ................................ ................................ ................................ ................................ ................................ .................  16 
+Air Compressor + painting spray gun  ................................ ................................ ................................ ................................ ................................ .......  18 
+Hot wire foam cutter  ................................ ................................ ................................ ................................ ................................ ...............................  20 
+Sander  ................................ ................................ ................................ ................................ ................................ ................................ ......................  22 
+Angle Grinder  ................................ ................................ ................................ ................................ ................................ ................................ ...........  24 
+Jigsaw  ................................ ................................ ................................ ................................ ................................ ................................ .......................  26 
+Skill Saw  ................................ ................................ ................................ ................................ ................................ ................................ ....................  28 
+Heating gun  ................................ ................................ ................................ ................................ ................................ ................................ ..............  30 
+Rechargeable drill  ................................ ................................ ................................ ................................ ................................ ................................ .... 32 
+Portable gas welding  ................................ ................................ ................................ ................................ ................................ ................................  34  
+2 | P a g e  
+ Arc Welding Machine  ................................ ................................ ................................ ................................ ................................ ...............................  36 
+Laser cutter Machine  ................................ ................................ ................................ ................................ ................................ ...............................  38 
+3D PRINTER  ................................ ................................ ................................ ................................ ................................ ................................ ..............  40 
+WATER BATH MACHINE  ................................ ................................ ................................ ................................ ................................ ...........................  42 
+CLIMATIC CHAMBER MACHINE  ................................ ................................ ................................ ................................ ................................ ................  44 
+DRYING OVEN MACHINE  ................................ ................................ ................................ ................................ ................................ ..........................  46 
+COMPRESSION TENSION MACHINE  ................................ ................................ ................................ ................................ ................................ .........  48 
+CONCRETE MIXING MACHINE  ................................ ................................ ................................ ................................ ................................ ..................  49 
+SIEVE ANAL YSIS “SHAKER”  ................................ ................................ ................................ ................................ ................................ .......................  51 
+VIBRATING TABLE MACHINE  ................................ ................................ ................................ ................................ ................................ ....................  52 
+First Aid Treatment  ................................ ................................ ................................ ................................ ................................ ................................ ...... 54 
+  
+3 | P a g e  
+ Introduction  
+The aim of model making workshop is to provide a proper safe area provided with suitable equipment and machines to allow student construct  
+building model s. Building model is built to study aspects of an  architectural design  or to communicate design ideas.  To keep the workshop in 
+operation safe work practice (SWP) should be implemented to prevent any accident . Safe work practice can be implemented under the following 
+points:  
+Dressing in the workshop  
+Dressing code should be followed up before  entering to the working area. The basic clothes that a person who will work in the workshop should 
+wear are slim fit shirt or t -shirt , pants and shoe to allow them to move easily around the workshop.  Long sleeve should be folded above elbow and 
+long hair should be tied ba ck. After entering the working area personal protective equipment should be used. Safety shoes and lab coat must be 
+worn all the times while working in the workshop. Each machine and power tool s have  its own safety precautions where personal protective 
+equipment ’s are required.  
+Environment of the workshop  
+The environment of the workshop  should be provided with important  equipments to keep the working place safe for work ing practice . 
+Ventilation  
+Ventilation is a control of the indoor air quality. In clos ed industrial  work places there are chemical fumes or dust produced from several processes. 
+These fumes or dust are spread out in the air of the working place which are harmful to human health . Ventilation is used to take out the air that 
+contain harmful s ubstances in to the environment and insert another clean air into the working place. Ventilation process can be carried out by 
+opening windows or exhaust fan or simply by opening the entrance door to allow the air with harmful contaminant escape from t he w orking area.  
+Fire fighting  
+Firefighting  equipment is provided to protect human  life. Firefighting  system consists  of fire storage tank, fire pumping system and distribution 
+system. The  storage tank of water kept either on top of the building or underground . The size of storage tank is depending on the hazard levels 
+which depend on the work being carried out in the building. The hazard level of  building is depending  on its  code system.  The hazard levels are ; 
+Light hazard  (for example: schools’  residential buildings and offices) , Ordinary  hazard (for example: factories and warehouses ), High Hazard (for 
+example:  stores which used for flammable materials like foam factories, aircraft hangars , paint factories, fireworks factories ). The firefighting  
+system should work continuously at least one hour or more depend on hazard level so also the size of the water tank is  depending  on that.  
+  
+4 | P a g e  
+  
+The fire pumping system consists of pumps which are locate d near the water tank. The location of the pump is just below the water tank to allow 
+the water flow into the pump by gravity. Firefighting  system is very important,  so two additional pumps are added in case one pump is stopped. 
+The backup pump is powered electrically,  and the second backup pump is powered by diesel engine in case the electrical power shut off, so all 
+these pumps  are identical in capacity.  
+The distribution system consists of steel or galvanized  steel pipes that are painted red. These pipes are joined either by welding or special clamps. 
+The underground pipes are wrapped with a special coating that prevents corrosion and protects the pipe . The piping system consists of f ire sparkler  
+detect the fire heat and discharge water when the temperature has been exceeded.  
+Emergency escaping  
+Emergency exit is a special exit used in emergency cases such as fire. Emergency exit provides additional escaping access to the regular exit for 
+faster e vacuation also it used when the route to the regular exit is blocked by fire . It is usually outward opening door with a  crash bar  on it and 
+with  exit signs  leading to it. However main door way can be used as fire exit in emergency cases. A fire escape  is a special kind of emergency exit, 
+mounted to the outside of a building.  
+ 
+ 
+ 
+ 
+ 
+  
+5 | P a g e  
+ Terminology  
+Hazard: can be defined in many ways  but in terms of work pla ce health and safety, Hazard means the potential source of harm or damage  effects 
+on persons causes delay to workflow.  In machines hazard occur either in point of operation where the material is cut or shaped, power transmission 
+such as pulley and belt or gears also electrical cables where  used to transmit power  and other movin g parts.  
+Risk:  is the chance or probability that a person will be harmed or experience an adverse health effect if exposed to a hazard. It m ay also apply to 
+situations with property or equipment loss.  
+Safety precautions: is the steps should be followed before working to avoid injury    
+   
+6 | P a g e  
+ Safety Signs  
+The easiest way to communicate with someone who does not know your language is to draw  a simple picture that indicates your massage. 
+Worldwide regulation for  health and safet y provide safety signs for all human which are in workplace to indicate them  about the significant risk 
+of the workplace. The safety signs are classified based on their color. The  classification s of safety signs are  indicated in the following table:  
+Color  Meaning or 
+Purpose  Instruction & 
+Information  Intrinsic Features  Example  
+RED Prohibition  / 
+Danger alarm  
+ Dangerous behavior; stop; 
+shutdown; emergency cut -out 
+devices; evacuate  
+ Round shape; black pictogram on white 
+background; red edging and diagonal 
+line; red part to be at leas t 35% of the 
+area of the sign . 
+ 
+YELLOW  
+or AMBER  
+ Warning  Be careful; take precautions; 
+examine  
+ Triangular shape; black pictogram on 
+yellow background with black edging; 
+yellow part to be at le ast 50% of the 
+area of the sign . 
+ 
+BLUE  Mandatory  
+ Specific behavior  or action e.g. 
+wear personal protective 
+equipment  
+ Round shape; white pictogram on blue 
+background; blue part to be at least 50% 
+of the area of the sign . 
+ 
+GREEN  Emergency escape; 
+first aid. No danger  
+ Doors; exits; escape routes 
+equipment and facilities Return 
+to normal  
+ Rectangular or square shape; white 
+pictogram on green background; green 
+part to be at le ast 50% of the area of the 
+sign.  
+RED (fire-
+fighting signs)  
+ Firefighting  
+equipment  
+ Identification & location  
+ Rectangular or square shape; white 
+pictogram on red background; red part 
+to be at least 50% of the area of the 
+sign. 
+ 
+ 
+7 | P a g e  
+ Safety sign meaning is in the following table : 
+Logo  Meaning  Logo  Meaning  
+ Eye protection must be worn.  
+ Wear safety gloves if needed.  
+ Lab coats must be worn in 
+this area.  
+ Do not wear jewelry.  
+ Protective footwear must be 
+worn.  
+ Do not wear loose clothing.  
+ Wear ear protection.  
+ Do not use Mobile phone 
+while working on machine.  
+ Wear dust mask.  
+ Eating in the work shop is not 
+allowed.  
+ 
+8 | P a g e  
+  Drinking in the work shop is 
+not allowed.  
+ Emergency exit.  
+ Smoking in the work shop is 
+not allowed.  
+ Warning use only with 
+adequate ventilation.  
+ Do not wear high heel shoes.  
+ Do not wear open tow shoe 
+or sandal.  
+ 
+9 | P a g e  
+ Risk Asses sment  
+ 
+Machine  
+Name  Band saw  
+Hazard  Risks  
+Crack machine cutting blade  Sudden  broken machine cutting blade  
+Unguarded blade  Physical hand injury  
+Unguarded drive mechanisms  Entangled operator clothes or small chopped pieces   
+Loosely fit clothing, wearing jewelry  and uncovered long hair  Trapped in teeth of saw  
+Accumulation of cut materials on around the machine   limiting workspace and fall down people around  
+Repetitive wo rk Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized  trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Wood , cardboard  and foam cutting  in various  shapes.  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 
+10 | P a g e  
+ ✔ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  Based on work experience of using “Band saw”  the likeli hood  of happening one of the hazards is “Unlikely”  on the other 
+hand the severity if one of the hazard happens is “Major” so the risk rating for the band  saw is calculated by  multiplying the 
+value of likeli hood and severity which it is in this case is 2 x 4 = 8 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  8 Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Major 5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Dust mask and ear muff must be worn  
+Never wear gloves during operation machine  
+Make sure band wheels covers are properly enclosed  
+Adjust blade guard height to about 3 mm above the top of the material being cut  
+Before you start the machine make sure the no thing is in touch with the cutting blade  
+Ensure the blade is tracking correctly and runs freely in and against th e upper and lower guide rollers also it is under proper 
+tension  
+Use a push stick to push work piece or remove cut pieces from between the fence and saw blade when distance between the 
+rip fence and cutting blade is less than 150mm   
+Likelihood   
+11 | P a g e  
+ Never touch blade while machine is working  
+During cutting keep hands out of the line of the saw blade  
+Move the workpiece slowly towards the cutting blade  
+Make release (relief) cuts before tight curves when d oing intricate scroll -type work  
+Keep the floor around a band saw clean and free of obstructions or clutter  
+Keep the mach ine properly oiled and serviced  
+All nail s or metallic parts incrusted in the wood to be cut must be previously removed  
+limit  Max  W: 30 cm  
+T: 17 cm  
+L: infinite   
+Min W: 1 mm  
+T: 1 mm  
+L: infinite   
+ 
+Machine  
+Name  Wood lathe machine  
+ 
+Hazard  Risks  
+Contact with revolving chucks and collets  Physical hand injury  
+Work pieces and cutting tools broken can be violently ejected from the 
+lathe  High physical injury  
+Hot cutting tool after using  Hand burn    
+Loosely fit clothing, wearing jewellery and uncovered long hair  Wrapped around the  chuck and  working piece  
+Swarf allowed to build up on rotating chucks  Machine jam  
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+ 
+12 | P a g e  
+ People   Only fully recognized  trained and qualified persons can use the machines and will instruct Students i n the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Wood  turning  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+✔ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  Based on work experience of using “Wood lath machine ” the likeli hood  of happening one of the hazards is “likely”  on the 
+other hand the severity if one of the hazard happens is “Major” so the risk rating for the Wood lath machine is calculated by 
+multiplying the val ue of likeli hood and severity which it is in this case is 4 x 4 = 16 the risk rating is in the “High” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  16 High  
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Major  5 Catastrophic  
+Severity  
+ 
+Likelihood   
+13 | P a g e  
+ Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Eear muff must be worn  
+Dust mask must be worn when dust is generated  
+Never wear gloves during operation machine  
+Before the lathe is turned on, ensure that all clamps and fittings are secure and that  the work piece is free to turn  
+Use workpiece free o f defects  
+Hold tools firmly with both hands and against the tool rest  
+Hold the stock securely on the f aceplate or between the centres  
+Use sharp, wel l-maintained chisels and gouges  
+Select a speed that is appropriate for the job. Operate the lathe at a low speed and use a moderate cut depth to prevent 
+splinters from flying out during roughing operations. The actual speed of the lathe depends on type of wood, a diameter of 
+stock, nature of work being done and type of tool used.  
+Adjust tool rests so that t hey are parallel and as close as possible to the stock. They should also be set high enough so that 
+tools will cut into the wood slightly above the centre of the work being turned  
+Remove the tool  rest when sanding or polishing  
+Use appropriate tools to hold  the sand paper o r emery paper whenever possible . If you must use your hands always hold the 
+paper in a way that will not allow the paper to catch, pull or entangle around the stock.  
+To make a faceplate turning, the one hand steadies the tip of the chisel,  which holds the edge against the tool rest while the 
+other hand guides the tool. Keep the tip of the chisel held higher than the handle.  
+Do not use workpiece  containing c hecks, splits, cracks, or knots  
+All nails or metallic parts incrusted in the wood to be cut must be previously removed  
+Limit  Max  Cutting speed 450 RPM  
+workpiece length 70 cm  
+work piece Diameter 28 cm  
+Min Cutting speed 2100 RPM  
+Workpiece length 10 cm  
+Workpiece diameter 3.5 cm   
+14 | P a g e  
+ Machine  
+Name  Press Drill  
+Hazard  Risks  
+Contact with revolving chuck and drill bit  Physical hand injury  
+Work pieces and drill bit  broken can be violently ejected from the lathe  High physical injury  
+Loosely fit clothing, wearing jewellery and uncovered long hair  Wrapped around rotating parts   
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Drilling  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+✔ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+15 | P a g e  
+ Executive 
+matrix  Based on work experience of using “Press Drill ” the likeli hood  of happening one of the hazards is “Possible ” on the other 
+hand the severity if one of the hazard happens is “Moderate ” so the risk rating for the Press Drill is calculated by multiplying 
+the value of likeli hood and severity which it is in this case is 3 x 3 = 9 the risk rating is in the “Medium ” range. 
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  9 Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Major  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions   Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Dust mask and ear muff must be worn  
+Never wear gloves during operation machine  
+Use a vacuum, brush or rake to remove swarf  
+Remove burrs and chips from a drilled hole. When making deep holes , clean out the hole frequently  
+Use a clamp or drill vis e to prevent work from spinning  
+Make sure the drill bit or cutting tool is locked securely  in the chuck. Remove the chuck key before starting the drill press  
+Lubricat e drill bit when drilling metal  
+Reduce the drilling pressure when the drill begins to break through the workpiece. This action prevents drill from pul ling into 
+the work and breakin g 
+Keep floor around the dri ll press free of oil and grease  
+Keep the working surface clean  of scraps, tools and materials  
+Do not force the drill with extra pressure  
+Do not place hands under the stock being drilled  
+Do not leave the  drill press running unattended  
+Limit  Max  Drill bit diameter 16 mm  
+Min Drill bit diameter 1 mm  
+ 
+Likelihood   
+16 | P a g e  
+ Machine  
+Name  Scroll Saw  
+Hazard  Risks  
+High speed reciprocating movements of machine upper cutting blade 
+holder  Physical hand injury  
+Loosely fit clothing, wearing jewellery and uncovered long hair  Entanglement with upper cutting blade holder   
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Wood , cardboard  and foam cutting  in various shapes.  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+✔ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 Likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+17 | P a g e  
+ Executive 
+matrix  Based on work experience of using “scro ll Saw ” the likeli hood  of happening one of the hazards is “Possible ” on the other 
+hand the severity if one of the hazard happens is “Moderate ” so the risk rating for the scroll saw is calculated by multiplying 
+the value of likeli hood and severity which it is in this case is 3 x 3 = 9 the risk rating is in the “Medium ” rang e. 
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  9 Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Dust mask and ear muff must be worn  
+Never wear gloves during operation machine  
+Keep working area clean and tidy, floor must not be slipary due to sawdust  
+All nails or metallic parts incrusted in the wood to be cut must be previously removed  
+Adjust hold down screw to be in contact with the top surface of the workpiece  
+Never touch blade and upper head while machi ne is working   
+Do not force the workpiece hardly towards the cutting blade  
+During cutting keep hands out of the line of the saw blade  
+Never leave machine working without obsetrvation   
+Make sure the working area is well ventilated  
+Limit  Max  Work piece leng th 40 cm  
+Work piece thickness 2.5 cm  
+Infinite width  
+Min Work piece length 0.5 cm  
+Work piece thickness 0.2 cm  
+Infinite width  
+ 
+Likelihood   
+18 | P a g e  
+ Machine  
+Name  Air Compressor  + painting spray gun   
+ 
+Hazard  Risks  
+Exposure to solvent vapor   
+ Causes health various issues e.g.  the central nervous system, 
+irritation of eye, skin and respiratory system  
+Exposure to liquid paint that contains epoxy and isocyanate  Cause asthma by breathing in paint mist. They can also cause 
+dermatitis by skin contact  
+Loosely fit clothing, wearing jewellery and uncovered long hair  Paint may drop on clothes while mixing the paint or panting  
+Week fittings of high pressurized air hoses causes sudden hose opening  High physical injuries  
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Painting  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 3 Possible  Might occur in some time  
+✔ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 
+19 | P a g e  
+ ✔ 4 Likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  Based on work experience of using “Air compressor + painting spray gun ” the likeli hood  of happening one of the hazards is 
+“likely ” on the other hand the severity if one of the hazard happens is “Moderate ” so the risk rating for the Air compressor + 
+painting spray gun is calculated by multiplying the value of likeli hood and severity which it is in this case is 4 x 3 = 12 the risk 
+rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  12 High  High  
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precaution
+s  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Face  mask and ear muff must be worn  
+Never wear gloves during operation machine  
+Make sure that the panting area  is well vintlated  
+Liquid paint should be handle with care to prevent spill  
+Cover should be well fixed on the paint container  
+Capacity  Capacity 0.25 M3/min  
+Cylinder 65 X 2  
+Power 3 HP 2.2 kw  
+Pressure 0.8 MPa 115 Psi  
+ 
+Likelihood   
+20 | P a g e  
+ Machine  
+Name  Hot wire foam cutter   
+ 
+Hazard  Risks  
+Fumes can be inhaled  Causes problems in r espiratory system  
+Contact with the hot wire  Causes skin burn  
+Loosely fit clothing, wearing jewellery and uncovered long hair  Burn if in contact with hot wire   
+Week high pressurized air hoses fittings causes sudden hose opening  High  physical injuries  
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Foam cutting  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+✔ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time  ✔ 2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+21 | P a g e  
+ Executive 
+matrix  Based on work experience of using “Hot wire foam cutter ” the likeli hood  of happening one of the hazards is “Rare ” on the 
+other hand the severity if one of the hazard happens is “Minor” so the risk rating for the Hot wire foam cutter  is calculated by 
+multiplying the value of likeli hood and severity which it is in this case is 1 x 2 = 2 the risk rating is in the “Low” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low 2 Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Dust mask must be worn  
+Never wear gloves during operation this machine  
+Only be used to cut expanded polystyrene material  
+Make sure the working area is well ventilated  
+Limit  Max  Workpiece length 50 cm  
+Workpiece thickness 4 cm  
+Infinite width  
+Min Workpiece length less than 50 cm  
+Workpiece thickness 0.5 cm  
+Infinite width  
+ 
+Likelihood   
+22 | P a g e  
+ Machine  
+Name  Sander   
+Hazard  Risks  
+Dust may occur  Causes problems in r espiratory system  
+Vibration   Causes direct injury to the fingers and hand, affecting feeling, 
+dexterity, and grip.  
+Loosely fit clothing, wearing jewellery and uncovered long hair  Effect hand movement   
+Long term  work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Sanding  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time  ✔ 2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 Likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+23 | P a g e  
+ Executive 
+matrix  Based on work experience of using “Sander ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand 
+the severity if one of the hazard happens is “Minor” so the risk rating for the Sander is calculated by multiplying t he value of 
+likeli hood and severi ty which it is in this case is 3  x 2 = 6 the risk rating is in the “Medium”  range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low 6 Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Dust mask and ear muff must be worn  
+Hold the tool firmly  
+Do not leave the tool running  
+Operate the tool only when hand held  
+Make sure the working area is well ventilated  
+Capacity  Grinding plate diameter 15 cm  
+ 
+ 
+Likelihood   
+24 | P a g e  
+ Machine  
+Name  Angle Grinder  
+Hazard  Risks  
+Inappropriate disc used for the task or fixing a disk that not for angle 
+grinder  Disk may grab or jam into the work piece this causes kickback 
+where the angle grinder suddenly thrusts back towards the 
+operator  
+Fix a worn or damaged disk   Attachment can break, becoming a projectile and striking worker  
+Guard has been removed or incorrectly positioned  Sparks fly towards the operator causing burns  
+The flange and center hole are different sizes  Disk can detach from the angle grinder’s body  
+High pressure applied during working  Broken disk causes becoming a projectile and striking workers or 
+kickback  
+Loosely fit clothing, wearing jewellery and uncovered long hair  Entanglement with rotating parts  
+Week high pressurized air hoses fittings causes sudden hose opening  High physical injuries  
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Cutting  or grinding  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 
+25 | P a g e  
+  3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+✔ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  Based on work experience of using “Angle Grinder ” the likeli hood  of happening one of the hazards is “Likely ” on the other 
+hand the severity if one of the hazard happens is “Moderate ” so the risk rating for the Angle Grinder is calculated by 
+multiplying the value of likelihood and severity which it is in this case is 4 x 4 = 16 the risk rating is in the “High”  range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  16 High  
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Dust mask and ear muff must be worn  
+Hold the tool firmly  
+Do not leave the tool running  
+Use appropreate recomendid disk   
+Make sore that the disk is fixed properly  
+Adjust the safety guard in propre position  
+Axulury handle must ba u sed 
+Don’t apply high force while working  
+Make sure the working area is well ventilated  
+Capacity  Average speed 11000 RPM  
+Grinding desk diameter 100 mm  
+ 
+Likelihood   
+26 | P a g e  
+ Machine  
+Name  Jigsaw  
+Hazard  Risks  
+Dust may occur  Causes problems in r espiratory system  
+Contact with moving parts   Causes physical injuries  
+Cutting blade is not fixed properly  Causes flyaway cutting blade towards the operator  
+Cut workpiece that has thickness more than the blade movement range  Broken cutting blade  
+Loosely fit clothing  uncovered long hair  Burn if in contact with hot wire  
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified person s can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Wood cutting  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+✔ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 3 Possible  Might occur in some time  
+✔ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+27 | P a g e  
+ Executive 
+matrix  Based on work experience of using “Jigsaw” the likeli hood  of happening one of the hazards is “Unlikely ” on the other hand 
+the severity if one of the hazard happens is “Moderate ” so the risk rating for the Jigsaw  is calculated by multiplying the value 
+of likelihood and severi ty which it is in this case is 2 x 3  = 6 the risk rating is in the “Medium”  range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low 6 Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Dust mask and ear muff must be worn  
+Make sure that the mains cable cannot be tripped over  
+Fix the workpiece within workingbench by using  (G-clamp) of (F -clamp) before starting  
+Make sure the working area is well ventilated  
+All nails or metallic parts incrusted in the wo od to be cut must be previously removed  
+Limit  Max  Cutting depth:  
+Wood 75 mm  
+Aluminum 18 mm  
+Non -alloyed steel 6 mm  
+Min Cutting depth for wood, aluminum and Non -alloyed steel 1 mm  
+ 
+Likelihood   
+28 | P a g e  
+ Machine  
+Name  Skil l Saw  
+ 
+Hazard  Risks  
+Projected particles  Fly towards operator causes physical injuries  
+Fumes can be inhaled  Causes problems in r espiratory system  
+Breakage of the disc  Broken pieces f ly towards operator causes physical injuries  
+Ambient noise  Causes hearing problems  
+Loosely fit clothing  uncovered long hair  Burn if in contact with hot wire  
+Week high pressurized air hoses fittings causes sudden hose opening  High physical injuries  
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within worki ng place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  wood  cutting  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+✔ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 
+29 | P a g e  
+  4 likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  Based on work experience of using “Skill Saw ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand 
+the severity if one of the hazard happens is “Moderate ” so the risk rating for the Skill Saw  is calculated by multiplying the 
+value of likeli hood and severity which it is in this case is 3 x 3 = 9 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  9 Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Dust mask and ear muff must be worn   
+Never wear gloves during operation machine  
+Make sure the working area is well ventilated  
+Chek the cutting disk i f it is cracked or split or if one or more teeth are missing, then it has to be replaced  
+All nails or metallic parts incrusted in the wood to be cut must be previously removed  
+Limit  Max  Cutting depth 54 mm  
+Cutting depth 41.3 mm @ 45o 
+Min Cutting depth 1 mm at any angle  
+ 
+Likelihood   
+30 | P a g e  
+ Machine  
+Name  Heating gun  
+Hazard  Risks  
+High temperature non-visible  flame  or may throw some sparks  Causes fire if directed on filmable material   
+ The power switches and fan motors are not usually spark -free and can 
+pose a serious ignition hazard  May pose a serious ignition if in use for long time  
+Contact with hot tip Causes skin burn  
+Loosely fit clothing  uncovered long hair  Burn if in contact with hot tip or flame  
+Week high pressurized air hoses fittings causes sudden hose opening  High physical injuries  
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Elect rical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Heating and paint drying  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+✔ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 
+31 | P a g e  
+  5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  Based on work experience of using “Heating Gun ” the likeli hood  of happening one of the hazards is “Unlikely ” on the other 
+hand the severity if one of the hazard happens is “Moderate ” so the risk rating for the Heating gun  is calculated by multiplying 
+the v alue of likely hood and severity which it is in this case is 2 x 4 = 8 the risk rating is in the “Medium”  range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  8 Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Face  mask must be worn  
+Never wear gloves during operation machine  
+ 
+Do not use a heat gun near combustible or flammable materials including open containers of flammable liquids, flammable 
+vapors  
+Be aware of the direction of the heat  
+Always switch the heat gun off before putting it down on any surface  
+Unplug the heat gun when not in use  
+Always maintain a minimum of one centimeter of clearance between outlet nozzle and work surface  
+Allow the tool to cool before storing it  
+Never touch the hot metal nozzle with clothing or skin  
+Never direct the air flow towa rds one’s body  
+Never block the inlet grill or obstruct the air flow of the unit while in operation  
+Never hold work piece by hand while using a heat gun or you will risk direct exposure of the heat to your hand , workpiece  
+must be held  by clamp, vice or plie r 
+Limit  Max  Temperature 90oC 
+Min Temperature 600oC 
+ 
+Likelihood   
+32 | P a g e  
+ Machine  
+Name  Rechargeable drill  
+Hazard  Risks  
+Contact with revolving chuck and drill bit  Physical hand injury  
+Work pieces and drill bit  broken can be violently ejected from the lathe  High physical injury  
+Loosely fit clothing  uncovered long hair  Wrapped around rotating parts  
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Drilling  or tightening a screw   
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+✔ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+33 | P a g e  
+ Executive 
+matrix  Based on work experience of using “Rechargeable  Drill ” the likeli hood  of happening one of the hazards is “Possible ” on the 
+other hand the severity if one of the hazard happens is “Moderate ” so the risk rating for the Rechargeable drill  is calculated 
+by multiplying the value of likely hood and severity which it is in this case is 3 x 3 = 9 the risk rating is in the “Medium”  range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  9 Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Dust mask must be worn   
+Ear muff must be worn if needed  
+Never wear gloves during operation machine  
+Use the proper drill bit for the operation  
+Use a clamp or vis e to prevent work from spinning  
+Make sure the drill bit or cutting tool is locked securely in the chuck  
+Do not forc e the drill with extra pressure  
+Limit  Max  Drill bit diameter 10 mm  
+Min Drill bit diameter 1 mm  
+ 
+Likelihood   
+34 | P a g e  
+ Machine 
+Name  Portable gas welding  
+Hazard  Risks  
+Fire caused by heat, sparks, molten metal or direct contact with the flame  
+ Causes fire if not handle with care  
+Fume s created during flame cutting  Causes problems in respiratory system  
+High visual rays  Causes eye flashback  
+Contact with hot metal  Causes skin burn  
+Week high pressurized gas hoses fittings causes sudden hose opening  High physical injuries  and Fire  
+Loosely fit clothing  uncovered long hair  Burn if in contact with flame   
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Welding or cutting metals  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 
+35 | P a g e  
+ ✔ 4 likely  Probably occur in most 
+circumstances   4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances  ✔ 5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  Based on work experience of using “Portable Gas Welding ” the likelihood of happening one of the hazards is “Likely ” on the 
+other hand the severity if one of the hazard happens is “Moderate ” so the risk rating for the Portable gas welding  is calculated 
+by multiplying the value of likely hood and severity which it is in this case is 4 x 4 = 8 the risk rating is in the “High”  range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  20 
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Heat proof gloves must be used  
+Maks sure that the welding area is well vintilated  
+Inspect equipment for leaks at all connections us ing approved leak -test solution  
+Inspect hoses for leaks and crack places  
+Protect hoses and cylinders fr om sparks, flames and hot metal  
+Use a fl int lighter to ignite the flame  
+Open cylinder valves very slowly to keep sudden high pressure s from exploding the regulators  
+Open and light acetylene first, then open and adjust oxygen to a neutral flame.  
+Close the acetylene torch valve first when shutting  off the torch ( a "pop" might occur as the oxygen "blows out" the flame, 
+but this eliminates the possibility of the flame  burning up the acetylene line)  
+When finished, close cylinder valves, bleed the lines to take pressure off regulators, neatly c oil hos es and replace equipment  
+Have a fire extinguisher easily  accessible at the welding site  
+Limit  Max  Welding metal thickness 7.62 cm  
+Cutting metal thickness 20.32 cm  
+Min Welding metal thickness less than 7.62 cm  
+Cutting metal thickness less than 20.32 cm  
+ 
+Likelihood   
+36 | P a g e  
+  
+Machine 
+Name  Arc Welding Machine  
+ 
+Hazard  Risks  
+Fumes can be inhaled  Causes problems in respiratory system  
+Arc rays (ultraviolet radiation)   Causes eye flashback  
+Hot welded metal  Skin burn if in  contact with  
+Sparks  High burn if in contact with  
+Loosely fit clothing  uncovered long hair  Burn if in contact with spark   
+Repetitive work  Operator effected by occupational overuse syndrome (OOS)  
+Electrical wire kept within working place  Electrical shock  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Metal Welding  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+✔ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 
+37 | P a g e  
+  5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  Based on work experience of using “Arc Welding Machine ” the likelihood of happening one of the hazards is “Likely ” on the 
+other hand the severity if one of the hazard happens is “Moderate ” so the risk rating for the  Arc Welding Machine  is 
+calculated by mul tiplying the value of likely hood and severity which it is in this case is 4 x 4 = 16 the risk rating is in the “High”  
+range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  16 High  
+3 Possible  Low Medium  Medium  Medium  Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Welding helmit provided with UV  proteting filter  
+Heat proof gloves must be used  
+Work in well ventilated area  
+Limit  Max  Welding current 200 Amp  
+Electrode diameter 4 mm  
+Min Welding current 25  Amp  
+Electrode diameter 1.6 mm  
+ 
+ 
+Likelihood   
+38 | P a g e  
+ Machine  
+Name  Laser cutter Machine  
+Hazard  Risks  
+Toxic f umes can be inhaled  Causes problems in r espiratory system  
+Invisible high energy laser beam  Cause s severe eye damage, including blindness and serious skin 
+burn  
+The high intensity laser beam can produce extremely high temperatures 
+while cutting  Cause a fire, especially if the material used is not compatible  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competen t as recognition of their ability.  
+Process  Foam cutting  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+39 | P a g e  
+ Executive 
+matrix  Based on work experience of using “Laser cutter Machine ” the likeli hood  of happening one of the hazards is “Possible ” on the 
+other hand the severity if one of the hazard happens is “Majo r” so the risk rating for the Laser cutter Machine  is calculated by 
+multiplying the value of likelihood and severity which it is in this case is 3 x 4 = 12 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Hearing protection must be worn  
+Gloves must be worn  
+Dust mask must be worn  
+Make sure the working area is well ventilated  
+DO NOT operate the machine without an instructor  
+DO NOT operate the laser unless all covers are in place and interlocks are workin g properly  
+DO NOT look directly into the laser beam  
+DO NOT cut a material that has not been approved by the manufacturer or use materials that are highly  
+flammable, explosive or produce toxic byproducts  
+DO NOT leave a laser cutter operating unattended  
+ALWA YS keep a properly maintained fire extinguisher nearby  
+Limit  Max  Operating t emperature  40℃ 
+Operating humidity 95%  
+Sheet Length 1200 mm  
+Sheet Width 800 mm  
+Min Operating t emperature  5℃ 
+Operating humidity 5%  
+Sheet Length 1 mm  
+Sheet Width 1 mm  
+ 
+Likelihood   
+40 | P a g e  
+ Machine 
+Name    
+ 
+ 
+3D PRINTER   
+Hazard  Risks  
+Toxic f umes can be inhaled  Causes problems in r espiratory system  
+Hot surface s Skin burn if in contact with  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Creating 3d plastic  models  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+41 | P a g e  
+ Executive 
+matrix  While using   “3D PRINTER ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand the severity if one 
+of the hazard happens is “Major ” so the risk rating for the Laser cutter Machine  is calculated by multiplying the value of 
+likelihood and severity which it is in this case  is 3 x 4 = 12 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Hearing protection must be worn  
+Gloves must be worn  
+Dust mask must be worn  
+DO NOT operate the machine without an instructor  
+DO NOT leave a 3D printers operating unattended  
+ALWAYS keep a properly maintained fire extinguisher nearby  
+Place 3D printers in areas that are well ventilated to minimize exposure to particle emissions.  
+Choose 3D printers with built -in ventilation systems.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Likelihood   
+42 | P a g e  
+ Machine 
+Name  WATER BATH MACHINE  
+ 
+Hazard  Risks  
+Hot surfaces  and materials  Skin burn if in contact with  
+loose hair/clothing  Wrapped around rotating/ shaking parts  
+overheating  Cause a fire  
+Moving and lifting heavy items of equipment (< 10Kg.).  
+ may cause bodily injury particularly when full of water.  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Ce rtification can be issued to Students that are competent as recognition of their ability.  
+Process  used to incubate samples in water under atmosphere pressure at constant temperature for a long period time.  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+43 | P a g e  
+ Executive 
+matrix  While using  “WATER BATH MACHINE ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand the 
+severity if one of the hazard happens is “Major ” so the risk rating for the Laser cutter Machine  is calculated by multiplying the 
+value of likelihood and severity which it is in this case  is 3 x 4 = 12 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Hearing protection must be worn  
+Heat proof gloves must be used  
+mask must be worn  
+Make sure the working area is well ventilated  
+DO NOT operate the machine without an instructor  
+DO NOT leave rhe machine operating unattended  
+ALWAYS keep a properly maintained fire extinguisher nearby  
+ 
+ 
+ 
+ 
+ 
+ 
+Likelihood   
+44 | P a g e  
+ Machine 
+Name  
+  
+ 
+CLIMATIC CHAMBER MACHINE  
+ 
+Hazard  Risks  
+Low flammable materials  cause a fire.  
+Opening the Door During the Test  1. low temperature test of -70 °C: touching the wall sample 
+of the test box without gloves. Instant frostbite, the 
+muscle tissue of the frostbite will even be necrotic.  
+2. high temperature 150 °C : the high temperature gas will 
+instantaneously rush out of the test chamber. If the 
+relevant protection is not done, it is likely to burn our 
+face  
+People   Only fully recognized trained and qualified persons can use the machines and will  instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  cure concrete and cement specimens to analyze the behavior of aggregate  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+ 
+45 | P a g e  
+ Executive 
+matrix  While using  “CLIMATIC CHAMBER MACHINE ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand 
+the severity if one of the hazard happens is “Major ” so the risk rating for the Laser cutter Machine  is calculated by multiplying 
+the value of likelihood and severity which it is in this case  is 3 x 4 = 12 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Hearing protection must be worn  
+Heat proof gloves must be used  
+Make sure the working area is well ventilated  
+DO NOT operate the machine without an instructor  
+DO NOT leave a the machine  operating unattended  
+ALWAYS keep a properly maintained fire extinguisher nearby  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Likelihood   
+46 | P a g e  
+ Machine 
+Name  DRYING OVEN MACHINE  
+ 
+Hazard  Risks  
+Using plastics that are not made to withstand high temperatures into the 
+machine  Cause them to melt and ignite. This can set fire to the equipment 
+itself and the room  
+rinsing items with volatile substances, or not rinsing away residual volatile 
+substances in the equipment before putting them in the dryer  cause the substance to become airborne. Due to the machine 
+not having a way to contain the gas, it can escape and be inhaled 
+by the operator and those around the machine  
+Hot surfaces an d materials  Skin burn if in contact with  
+overheating  Cause a fire  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that ar e competent as recognition of their ability.  
+Process  used to remove water and other solvents from the material, placed inside them  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect   
+47 | P a g e  
+ Executive 
+matrix  While using  “DRYING OVEN MACHINE ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand the 
+severity if one of the hazard happens is “Major ” so the risk rating for the Laser cutte r Machine  is calculated by multiplying the 
+value of likelihood and severity which it is in this case is 3 x 4 = 12 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Safety goggle or face shield must be worn  
+Hearing protection must be worn  
+Heat proof gloves must be used  
+Dust mask must be worn  
+Make sure the working area is well ventilated  
+DO NOT operate the machine without an instructor  
+DO NOT leave a the machine operating una ttended  
+ALWAYS keep a properly maintained fire extinguisher nearby  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Likelihood   
+48 | P a g e  
+ Machine 
+Name  COMPRESSION TENSION MACHINE  
+ 
+Hazard  Risks  
+Dangerous moving parts at loading/unloading mechanisms  may cause bodily injury  
+Hot surfaces and materials  Skin burn if in contact with  
+Moving and lifting heavy items of equipment (< 10Kg.).  may cause bodily injury  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can  be issued to Students that are competent as recognition of their ability.  
+Process  Used to perform reliable strength and flexure tests on mortar specimens.  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect   
+49 | P a g e  
+ Executive 
+matrix  While using  “COMPRESSION TENSION MACHINE ” the likeli hood  of happening one of the hazards is “Possible ” on the other 
+hand the severity if one of the hazard happens is “Major ” so the risk rating for the Laser cutter Machine  is calculated by 
+multiplying the value of likelihood and severity which it is in this case is 3 x 4 = 12 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Hearing protection must be worn  
+Gloves must be worn  
+DO NOT operate the machine without an instructor  
+DO NOT leave the machine operating unattended  
+ALWAYS keep a properly maintained fire extinguisher nearby  
+ 
+ 
+Machine 
+Name  CONCRETE MIXING MACHINE  
+ 
+Hazard  Risks  
+loose hair/clothing  Wrapped around rotating/ shaking parts  
+Flying debris and dust particles  Causes problems in respiratory system  
+Moving and lifting heavy items of equipment (< 10Kg.).  may cause bodily injury particularly when full of materials .  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are com petent as recognition of their ability.  
+Process  MIXING CONCRETE  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+Likelihood   
+50 | P a g e  
+  1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  While using  “CONCRETE MIXING MACHINE ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand 
+the severity if one of the hazard happens is “Major ” so the risk rating for the Laser cutter Machine  is calculated by multiplying 
+the value of likelihood and sev erity which it is in this case is 3 x 4 = 12 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Gloves must be worn  
+Dust mask must be worn  
+Make sure the working area is well ventilated  
+DO NOT operate the machine without an instructor  
+DO NOT leave the machine operating unattended  
+ 
+ 
+ 
+Likelihood   
+51 | P a g e  
+ Machine 
+Name  SIEVE ANALYSIS “SHAKER”  
+Hazard  Risks  
+loose hair/clothing  Wrapped around rotating/ shaking parts  
+Moving and lifting heavy items of equipment (< 10Kg.).  may cause bodily injury particularly when full of materials .  
+Flying debris and dust particles  Causes problems in respiratory system  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Used for the characterization of bulk goods of different forms and sizes, and the know ledge of their particle size distributions.  
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+ 1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect   
+52 | P a g e  
+ Executive 
+matrix  While using  “SIEVE ANALYSIS “SHAKER” ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand the 
+severity if one of the hazard happens is “Major ” so the risk rating for the Laser cutter Machine  is calculated by multiplying the 
+value of likelihood and severity which it is in this case  is 3 x 4 = 12 the risk rating is in the “Medium ” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Gloves must be worn  
+Dust mask must be worn  
+Make sure the working area is well ventilated  
+DO NOT operate the machine without an instructor  
+DO NOT leave the machine operating unattended  
+ 
+ 
+Machine 
+Name  VIBRATING TABLE MACHINE  
+Hazard  Risks  
+loose hair/clothing  Wrapped around rotating/ shaking parts  
+Moving and lifting heavy items of equipment (< 10Kg.).  may cause bodily injury particularly when full of materials .  
+Flying debris and dust particles  Causes problems in respiratory system  
+People   Only fully recognized trained and qualified persons can use the machines and will instruct Students in the safe use of the 
+machines. Certification can be issued to Students that are competent as recognition of their ability.  
+Process  Concrete blocks and tiles mold s . 
+Profiling 
+Risks  Likelihood  Severity  
+Level  Descriptor  Meaning  Level  Descriptor  Meaning  
+Likelihood   
+53 | P a g e  
+  1 Rare  Could occur in exceptional 
+circumstances   1 Significant  No injury  
+ 2 Unlikely  Could occur at some time   2 Minor  First aid treatment, Immediate 
+containment, onsite release  
+✔ 3 Possible  Might occur in some time  
+ 3 Moderate  Medical treatment, Immediate 
+containment with external 
+assistance  
+ 4 likely  Probably occur in most 
+circumstances  ✔ 4 Major  Extensive injuries, off -site release 
+with no permanent effect  
+ 5 Almost  Expected to occur in most 
+circumstances   5 Catastrophic  Death, off -site release with no 
+permanent effect  
+Executive 
+matrix  While using  “VIBRATING TABLE MACHINE ” the likeli hood  of happening one of the hazards is “Possible ” on the other hand 
+the severity if one of the hazard happens is “Major ” so the risk rating for the Laser cutter Machine  is calculated by multiplying 
+the value of likelihood and severity which it is in this case is 3 x 4 = 12 the risk rating is in the “Medi um” range.  
+ 
+ 5 Almost  Low Medium  Medium  High  High  
+4 likely  Low Medium  Medium  High  High  
+3 Possible  Low Medium  Medium  12 Medium  
+2 Unlikely  Low Low Medium  Medium  Medium  
+1 Rare  Low Low Low Low Low 
+ 1 Significant  2 Minor  3 Moderate  4 Moderate  5 Catastrophic  
+Severity  
+ 
+Safety 
+Precautions  Safety shoes and lab coat must be worn  
+Gloves must be worn  
+Dust mask must be worn  
+Make sure the working area is well ventilated  
+DO NOT operate the machine without an instructor  
+DO NOT leave the machine operating unattended  
+ 
+ 
+Likelihood   
+54 | P a g e  
+ First Aid Treatment  
+First aid treatment is the action which will be taken in case of accident happen  to prevent any further complications that may occur for the 
+injured person, until the assigned nurse at the unive rsity or the public health care arrives.  
+First Aid Treatment  
+If an accdent happende and the infected person has:  Action must be taken  
+Bleeding  cut or wound  • Stop Bleeding:  Apply direct pressure on the cut or wound with a clean cloth, tissue, or 
+piece of gauze until bleeding stops.  
+• Clean Cut or Wound:  Gently clean with soap and warm water or alcohol pad. Try to 
+rinse soap out of wound to prevent irritation.  
+• Protect the cut o r Wound:  apply plaster or wrap around elastic bandage.  
+ 
+Swel ling Protection:  protect from other possible injuries by using a support or other measures  
+Rest:  to reduce the swelling, do not walk or bear weight on the injured limb, avoid 
+activities involving the injured area for the initial 24 to 72 hours after injury  
+Ice: ice packs should be applied during the first 72 hours. The pack should be wrapped 
+in a towel and applied for 20 minutes to reduce the swelling and the pain  and to 
+control the bleed ing. It could be reapplied after a 20 minutes break if necessary.  
+Compression:  apply a compression bandage to support and control the swelling. 
+Remember to remove the bandage before going to  sleep.  
+Elevation:  of the affected limb to reduce the swelling, bl eeding and  pain  
+ 
+Fanting  • Position the person on his/ her back.  If the person is breathing, restore blood 
+flow to the brain by raising the pe rson's legs above heart level about 30 
+centime ters if possible. Loosen belts, collars or other constrictive clothing. To 
+reduce the chance of fainting again, don't get the person up too quickly. If the 
+person doesn't regain consciousness within one minute, call your local emergency 
+number.  
+• Check the person 's airway to be sure it's clear.  Watch for vomiting.  
+• Check for signs of circulation (breathing, coughing or movement).  If absent, 
+begin CPR. Call your local emergency number. Continue CPR until help arrives or 
+the person responds and begins to breathe.  
+  
+55 | P a g e  
+  Broken bone  and fractures  What to look for - Broken bones and fractures  
+1. Swelling  
+2. Difficulty moving  
+3. Movement in an unnatural  direction  
+4. A limb  that looks shorter, twisted or bent  
+5. A grating noise or feeling  
+6. Loss of strength  
+7. Shock  
+ 
+What you need to do - Broken bones and fractures  
+• If it is an open fracture, cover the wound with a sterile dressing and secure it with a 
+bandage. Apply pressure around the wound to control any bleeding.  
+• Support the injured body part to stop it from moving. This shou ld ease any pain and 
+prevent any further damage.  
+• Once you’ve done this, call 999 or 112 for medical help. While waiting for help to 
+arrive, don’t move them  unless they’re in immediate danger.  
